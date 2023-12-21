@@ -2,7 +2,7 @@
   "version": "1.0",
   "lang" : "en",
   "name" : "Roy",
-  "display" : "fullscreen",
+  "display": "standalone",
   "start_url" : "https://www.roymendoza.tech",
   "short_name" : "Roy",
   "description" : "",
