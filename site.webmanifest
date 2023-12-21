@@ -2,7 +2,6 @@
   "version": "1.0",
   "lang" : "en",
   "name" : "Roy",
-  "scope" : "https://roymendozac.web.app/app/",
   "display" : "fullscreen",
   "start_url" : "https://www.roymendoza.tech",
   "short_name" : "Roy",
